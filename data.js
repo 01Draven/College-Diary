@@ -122,5 +122,5 @@ export const galleryItems = [
     { id: 35, cat: "Food Trip", label: "Celebration after mag 2nd Place sa Exhibit", caption: "Exhibit", src: "../images/Food trip 2.jpg" },
     { id: 36, cat: "Food Trip", label: "Plus points daw pag bumili ng pagkain sa BSHM", caption: "Exhibit", src: "../images/Food trip 3.jpg" },
     { id: 38, cat: "Food Trip", label: "Try naman daw nila sa Greenwich", caption: "Exhibit", src: "../images/Food trip.jpg" },
-    { id: 37, cat: "Sportfest", label: "Tryout elimation round", caption: "Exhibit", src: "../images/Chess match.jpg" }
+    { id: 37, cat: "Sportfest", label: "Tryout elimation round", caption: "Exhibit", src: "../images/Chess Match.jpg" }
 ];
