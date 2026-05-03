@@ -106,7 +106,7 @@ export const galleryItems = [
     { id: 18, cat: "Outing", label: "Birthday Celebration ni Ivan at Ako", caption: "Exhibit", src: "../images/outing 4.jpg" },
     { id: 19, cat: "Outing", label: "Birthday Celebration ni Ivan at Ako", caption: "Exhibit", src: "../images/outing 5.jpg" },
     { id: 20, cat: "Outing", label: "Si Ivan at Japjap", caption: "Exhibit", src: "../images/outing 6.jpg" },
-    { id: 21, cat: "Project", label: "Progress of the water rover", caption: "Exhibit", src: "../images/project.jpg" },
+    { id: 21, cat: "Project", label: "Progress of the water rover", caption: "Exhibit", src: "../images/Project.jpg" },
     { id: 22, cat: "Project", label: "Progress of the water rover", caption: "Exhibit", src: "../images/project 1.jpg" },
     { id: 24, cat: "Classmates", label: "Mirror pic daw kami", caption: "Exhibit", src: "../images/Random pics.jpg" },
     { id: 25, cat: "Classmates", label: "Picture muna bago mag bakasyon", caption: "Exhibit", src: "../images/Random pics 2.jpg" },
